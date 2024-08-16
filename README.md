@@ -7,3 +7,5 @@
 
 
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/Arrays_part2.ipynb]
+
+[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab3_160824.ipynb]
