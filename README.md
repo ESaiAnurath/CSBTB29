@@ -13,3 +13,5 @@
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment_2.ipynb]
 
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment4.ipynb]
+
+[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab30824.ipynb]
