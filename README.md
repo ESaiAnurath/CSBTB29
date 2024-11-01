@@ -23,3 +23,5 @@
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/SVM.ipynb]
 
 [https://github.com/E-SaiAnurath/CSBTB29/blob/main/DecisionTree.ipynb]
+
+[https://github.com/E-SaiAnurath/CSBTB29/blob/main/KNN.ipynb]
