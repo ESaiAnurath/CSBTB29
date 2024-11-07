@@ -1,27 +1,27 @@
 # CSBTB29
-[https://github.com/e-anurath/CSBTB29/blob/main/arraysort.ipynb]
+1)[https://github.com/e-anurath/CSBTB29/blob/main/arraysort.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Listtypes.ipynb]
+2)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Listtypes.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Arrays.ipynb]
+3)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Arrays.ipynb]
 
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Arrays_part2.ipynb]
+4)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Arrays_part2.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab3_160824.ipynb]
+5)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab3_160824.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment_2.ipynb]
+6)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment_2.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment4.ipynb]
+7)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Assignment4.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab30824.ipynb]
+8)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab30824.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_Lab_13924.ipynb]
+9)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_Lab_13924.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab_20924.ipynb]
+10)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/Aiml_lab_20924.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/SVM.ipynb]
+11)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/SVM.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/DecisionTree.ipynb]
+12)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/DecisionTree.ipynb]
 
-[https://github.com/E-SaiAnurath/CSBTB29/blob/main/KNN.ipynb]
+13)[https://github.com/E-SaiAnurath/CSBTB29/blob/main/KNN.ipynb]
